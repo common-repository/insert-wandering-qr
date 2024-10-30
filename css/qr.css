@@ -1,0 +1,14 @@
+td.des_more{
+	color:#666666;
+	font-size:11px;
+}
+.hidden{
+display:none;
+}
+
+.gmap3{
+    border: 1px dashed #C0C0C0;
+    width: 450px;
+    height: 230px;
+	float:left
+  }
